@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "handwritten_number_classification"
 AUTHOR_USER_NAME = "Sibasis555"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "hwn_cnnClassifier"
 AUTHOR_EMAIL = "sahoosibasis555@gmail.com"
 
 
